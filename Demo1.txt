@@ -1,1 +1,18 @@
 This a demo of GIT.
+Microsoft Windows [Version 10.0.22621.2428]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\cap>git init
+Initialized empty Git repository in C:/cap/.git/
+
+C:\cap>git remote add origin https://github.com/Hazarath13/.NET.git
+
+C:\cap>git clone https://github.com/Hazarath13/.NET.git
+Cloning into '.NET'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+C:\cap>
